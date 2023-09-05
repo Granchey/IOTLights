@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOTLights</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="iot">IOT</string>
+    <string name="hyrja">HYRJA</string>
+    <string name="koridori">KORIDORI</string>
+    <string name="shpenzimet">SHPENZIMET</string>
+</resources>
